@@ -1,0 +1,15 @@
+body {
+  min-height: 84vh;
+  margin: 50px;
+  background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+#mapid { height: 65vh; }
+.btn{
+  transition: all 0.15s;
+}
+
+.btn:hover{
+  color: indigo;
+  text-decoration: none;
+}
